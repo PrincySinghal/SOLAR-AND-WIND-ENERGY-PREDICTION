@@ -100,12 +100,12 @@ We applied machine learning algorithms like Ridge and Lasso Regression, SVM, Ran
 
 
 
-## Navigating the website
+## A possible User Interface 
 
-<img width="1439" alt="cover page 1" src="https://user-images.githubusercontent.com/74909133/211185833-7900ed1d-5cef-4d75-b128-0e1953ec526d.png">
-<img width="1440" alt="cover page 2" src="https://user-images.githubusercontent.com/74909133/211185843-3c5464cd-8dbc-4c21-bac7-02035c74433d.png">
+#<img width="1439" alt="cover page 1" src="https://user-images.githubusercontent.com/74909133/211185833-7900ed1d-5cef-4d75-b128-0e1953ec526d.png">
+#<img width="1440" alt="cover page 2" src="https://user-images.githubusercontent.com/74909133/211185843-3c5464cd-8dbc-4c21-bac7-02035c74433d.png">
 <img width="1440" alt="solar predictor" src="https://user-images.githubusercontent.com/74909133/211185851-e1f6a5cb-2258-4bef-ae44-5aa2d266cc92.png">
-<img width="1439" alt="advantages of product" src="https://user-images.githubusercontent.com/74909133/211185852-9a6cc865-e25b-4e64-b2fa-603197d3117d.png">
+#<img width="1439" alt="advantages of product" src="https://user-images.githubusercontent.com/74909133/211185852-9a6cc865-e25b-4e64-b2fa-603197d3117d.png">
 <img width="1440" alt="wind_predictor" src="https://user-images.githubusercontent.com/74909133/211185854-f65a083c-1ef2-4a82-b974-cde3e9249800.png">
 
 
