@@ -38,7 +38,7 @@ SOLAR AND WIND ENERGY PREDICTION using Machine and Deep Learning models
       <a href="#results">Results</a>
     </li>
     <li>
-      <a href="#navigating-the-website">Navigating the Website</a>
+      <a href="#User Interface">Navigating the Website</a>
     </li>
     <li>
       <a href="#team">Team</a>
